@@ -1,0 +1,2 @@
+D:\Mphasis\Phase-2\WEBFORM PROJECT\WebForms\WebForms\obj\Debug\WebForms.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-2\WEBFORM PROJECT\WebForms\WebForms\obj\Debug\WebForms.csproj.CoreCompileInputs.cache
